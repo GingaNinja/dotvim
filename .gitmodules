@@ -7,5 +7,5 @@
 	url = http://github.com/vim-ruby/vim-ruby.git
   ignore = dirty
 [submodule "bundle/cucumber"]
-	path = bundle/cucumber
+	path = bundle/vim-cucumber
 	url = http://github.com/tpope/vim-cucumber.git
