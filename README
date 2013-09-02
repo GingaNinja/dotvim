@@ -12,3 +12,13 @@ Switch to the '~/.vim' directory, and fetch submodules:
   cd ~/.vim
   git submodule init
   git submodule update
+
+To add more plugins:
+
+  git submodule add http://github.com/thing bundle/thing
+  git add .
+  git commit -m "Install thing as a submodule."
+
+To upgrade all plugins:
+
+  git submodule foreach git pull origin master
