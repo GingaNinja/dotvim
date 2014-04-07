@@ -21,3 +21,6 @@
 [submodule "bundle/vim-dispatch"]
 	path = bundle/vim-dispatch
 	url = http://github.com/tpope/vim-dispatch.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = http://github.com/scrooloose/syntastic.git
