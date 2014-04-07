@@ -12,3 +12,6 @@
 [submodule "bundle/vim-endwise"]
 	path = bundle/vim-endwise
 	url = http://github.com/tpope/vim-endwise.git
+[submodule "bundle/omnisharp"]
+	path = bundle/omnisharp
+	url = http://github.com/nosami/Omnisharp.git
