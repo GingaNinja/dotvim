@@ -15,3 +15,6 @@
 [submodule "bundle/omnisharp"]
 	path = bundle/omnisharp
 	url = http://github.com/nosami/Omnisharp.git
+[submodule "bundle/bundle/vim-dispatch"]
+	path = bundle/bundle/vim-dispatch
+	url = http://github.com/tpope/vim-dispatch.git
