@@ -18,3 +18,6 @@
 [submodule "bundle/bundle/vim-dispatch"]
 	path = bundle/bundle/vim-dispatch
 	url = http://github.com/tpope/vim-dispatch.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = http://github.com/tpope/vim-dispatch.git
